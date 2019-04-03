@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="table-bordered table-responsive text-center">
+<table class="table table-striped table-dark" style="border: 2px solid #ddd;" >
+    <thead>
+    <tr>
+      <th scope="col">Cover</th>
+      <th scope="col">Title</th>
+      <th scope="col">Artist</th>
+      <th scope="col">Mood</th>
+      <th scope="col">Prediction</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for song in lyrics %}
+       <tr>
+      <td scope="row"><img src={{song.icon_url}}></td>
+      <td>{{song.title}}</td>
+      <td>{{song.artist}}</td>
+      <td>{{song.mood}}</td>
+      <td>{{song.probability}}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+{% endblock content %}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skilful-sphere-235908",
+  "private_key_id": "36092d52272179b5e4e325bee3287f0f0806d392",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDURr9V5MvPdMaq\nDYAqtIvI52JGMy9+MHZ66AfyPXQ9a++La6b5kaNn6jh0ktivMJQy803Q+VjDXZy3\nRWXuXi3UFVpaFx0Igz1ldwRIirkNQpt6J5mj2dUhVrf9tEgMaEiXONVszgr+Cx09\nInwpx/o7ePcispiYXPqN94CHJ0IiWIsmN+biaiz52Billv2kX+WAoU5iQ38NKzTG\nHNqdMnyG/8fSYtJpFqtsCMR0zIKGHbsHgW8IArcc2HO7p+vfdqtZ0b2EX+C8CPHa\niKSWG/gVdKuwpldEOETs322ub7dnk7+Ski3df96LVjqY7/gSoG29F1X/LWmGD80i\nBE4iX8UzAgMBAAECggEABLSwLt4gIU3pzihZ/91InPF5vY5ZZH1LAd9HGYLPZ99T\nrquhlUn/APoxkvhPVUJI+TuQVJiifc3vsTlTxutjaNmp3rcZ15dQmm2c77Ii90vn\nQCZiR8gkOfMNz2+fTxykt1JrS+IdI87o9ZBgOLv4jv0c0bvdhfxlYJ+KYVcZ168J\nPItRxoPD48U7S1Jy5gjMU7Jbs3qqRLQzuvtAsbL9nhxK7NPWYdP5gOZNaHr86ALN\np18qbFlH4w8YtpaRubncX//IqWq50IKPS3RENtphM6iFrmcJf1KgK9ib4RElWIm5\ntzyHJT3TKo9qPoHJwiwsbFE/igsZ9z1V48ql2r616QKBgQD1hgW6FHM9KfJABgKp\nGW3/fjib6DaLhtcaJcY8ZsGNnPGLJ7E7LVGGmgTbfU6jowVYKdeRgmPUDRBa6GRt\n2cm8Xjq6I81QmBEtioYL+3i9pnxehMrey2CxPWUCEte/JVN0P8rKA3HROjBJDz5m\nZBDDGG5WhOg2kUsG7qgRya3VFQKBgQDdVYyl2LZ4Eu33pX5jO1b6GsRuKia4yHxI\no09JwDHdDxoMz/8OqkUGQB+5MvPOZEc4nQcdRaRuBzfdfGKSO9tvH2ZDj+dRZZKM\n98f91WY18Lg5hG4XbXm4ofZvtD6Wd028bVfPwet/f5BrfG6M7mZ9+gPnn/lSCzc3\nqxld8jTTJwKBgQCH5+EBqNJFWBO9dtZALlBiLcc+HeMbhs9IrQI3axXWwro9sgH7\n5NEM9fKcYJeIIvQRYk/uPsPtnDGicKMu33A48dwGL002QIa5s8URmuix6hdL5qu5\nedCTK43fAPkl2I6CedFR02hMTa5usp5y5Q8WP07MW5OCqRhjxPWJqx6rJQKBgQDF\nY7lGYuoAVelyFV6NAuvDq0GJegAEhZAJe9OHU2dk3UX/LTQrkQBz3ZYtJVq3s0it\nHaWtnmFRWxCgb4C9J7K//IHIOTszpWE4ZPYv0zQPYPn7GbbRH+oRFihgYJ/8srNa\nGy3X8/qhP1O9+D/jYe135hO7azj/yU7aT7YUyaAAuwKBgQDiibLM0vROYFqkS09V\n+t4blF6dZJj58j8q8dFzytCHvhWO78wiXvpBSGqGVdqUA3cX+r0TMDkM0qlOd0rF\n12fwv6QuipekPI0VDP34qnhr6Lq2ex7TvbpuD5UTGQWa9yyBHLH21AVtSXpDS6rU\nKXZsJVORWCgOOx9W52f5phk1gA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "assignment@skilful-sphere-235908.iam.gserviceaccount.com",
+  "client_id": "115175784587136962741",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/assignment%40skilful-sphere-235908.iam.gserviceaccount.com"
+}
