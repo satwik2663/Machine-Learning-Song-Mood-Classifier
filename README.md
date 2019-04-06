@@ -20,7 +20,7 @@ The WEB App would provide the user with 2 functionalities: <br>
 ![Capture](https://user-images.githubusercontent.com/37238004/55662335-341b3580-57e0-11e9-8a41-d2a723c7c4d0.JPG)
 
 # CLAAT
-<b< https://codelabs-preview.appspot.com/?file_id=1mmqN8t1Q9ZbYELVA_Tud2Eo3u9vxU_OXMjDYfbq-RJ0#0 </b>
+<b> https://codelabs-preview.appspot.com/?file_id=1mmqN8t1Q9ZbYELVA_Tud2Eo3u9vxU_OXMjDYfbq-RJ0#0 </b>
 
 # YOUTUBE 
 <b> https://youtu.be/9trHX5Ahjx8 </b>
