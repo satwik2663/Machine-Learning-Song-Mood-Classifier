@@ -3,7 +3,7 @@
 Machine learning model to classify mood of the song as Happy/Sad <br>
 
 # Goal: <br>
-- Mood classifier for a top-40 list <br>
+- Mood classifier for a top-k list <br>
 - Displaying mood of the song using Search <br>
 
 # To use the model 
