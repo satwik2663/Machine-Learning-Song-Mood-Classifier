@@ -30,3 +30,6 @@ The WEB App would provide the user with 2 functionalities: <br>
 - https://developers.google.com/machine-learning/guides/text-classification/
 - https://developer.musixmatch.com
 - https://github.com/google/eng-edu/tree/master/ml/guides/text_classification
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
